@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I currently research agentic coding capabilities at Google DeepMind, which I came over to after working on the model training team at the AI code editor startup Windsurf.
+I currently research agentic coding capabilities at Google DeepMind, which I came over to from working on the model training team at the startup Windsurf.
 
 I graduated *summa cum laude* and Phi Beta Kappa from Harvard College with an A.B. in Computer Science and Government, and also concurrently completed my A.M. in Statistics. On campus, I led [Harvard Computer Society](https://www.hcs.harvard.edu), organized study groups with visiting fellows from Congress and the Cabinet through the [Institute of Politics](https://www.iop.harvard.edu), and sang all four years with the [Harvard Glee Club](https://www.harvardgleeclub.org).
 
