@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I currently research agentic coding capabilities at Google DeepMind, which I came over to from working on the model training team at the startup Windsurf.
+I currently research agentic coding capabilities at Google DeepMind, and have worked on [Gemini 3 Pro](https://blog.google/products/gemini/gemini-3/), [Gemini 3 Flash](https://blog.google/products/gemini/gemini-3-flash/), and [Google Antigravity](https://antigravity.google/). Previously, I was on the model training team at [Windsurf](https://windsurf.com/).
 
 I graduated *summa cum laude* and Phi Beta Kappa from Harvard College with an A.B. in Computer Science and Government, and also concurrently completed my A.M. in Statistics. On campus, I led [Harvard Computer Society](https://www.hcs.harvard.edu), organized study groups with visiting fellows from Congress and the Cabinet through the [Institute of Politics](https://www.iop.harvard.edu), and sang all four years with the [Harvard Glee Club](https://www.harvardgleeclub.org).
 
