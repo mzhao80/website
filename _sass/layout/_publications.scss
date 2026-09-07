@@ -1,0 +1,23 @@
+/* Publication lists share the site's typography, links, and section rules. */
+.page__content {
+  .publication-section:first-child h2 {
+    margin-top: 1.25em;
+  }
+
+  .publication {
+    margin: 1.5em 0;
+  }
+
+  .publication__title {
+    margin: 0 0 0.45em;
+    font-size: 1em;
+    line-height: 1.45;
+  }
+
+  .publication__authors,
+  .publication__details {
+    margin: 0 0 0.35em;
+    font-size: 0.875em;
+    line-height: 1.6;
+  }
+}

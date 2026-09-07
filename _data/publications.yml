@@ -1,0 +1,67 @@
+- title: "AI Research"
+  id: ai-research
+  works:
+    - title: "Research acceleration: The view inside OpenAI"
+      authors:
+        - OpenAI
+      date: 2026-09-06
+      date_label: "Published"
+      venue: "OpenAI"
+      url: https://openai.com/index/research-acceleration-view-inside-openai/
+      # The article lists OpenAI as its author and September 6, 2026 as its publication date.
+      date_source: https://openai.com/index/research-acceleration-view-inside-openai/
+
+- title: "Political Science"
+  id: political-science
+  works:
+    - title: "Redistricting Reforms Reduce Gerrymandering by Constraining Partisan Actors"
+      authors:
+        - Cory McCartan
+        - Christopher T. Kenny
+        - Tyler Simko
+        - Emma Ebowe
+        - Michael Y. Zhao
+        - Kosuke Imai
+      date: 2026-07-30
+      date_label: "Published online"
+      venue: "American Political Science Review"
+      url: https://www.cambridge.org/core/journals/american-political-science-review/article/redistricting-reforms-reduce-gerrymandering-by-constraining-partisan-actors/5D85E711B3C401F0D24A9B7BB8C50337
+      # Cambridge's first online publication date, rather than the earlier preprint date.
+      date_source: https://www.cambridge.org/core/journals/american-political-science-review/article/redistricting-reforms-reduce-gerrymandering-by-constraining-partisan-actors/5D85E711B3C401F0D24A9B7BB8C50337
+
+    - title: "Gerrymandering and geographic polarization have reduced electoral competition"
+      authors:
+        - Ethan Jasny
+        - Christopher T. Kenny
+        - Cory McCartan
+        - Tyler Simko
+        - Melissa Wu
+        - Michael Y. Zhao
+        - Aneetej Arora
+        - Emma Ebowe
+        - Philip O'Sullivan
+        - Taran Samarth
+        - Kosuke Imai
+      date: 2025-08-21
+      date_label: "Submitted"
+      venue: "arXiv preprint"
+      url: https://arxiv.org/abs/2508.15885
+      # First submission (v1) in arXiv's submission history.
+      date_source: https://arxiv.org/abs/2508.15885
+
+    - title: "alarmdata: Download, Merge, and Process Redistricting Data"
+      authors:
+        - Cory McCartan
+        - Christopher T. Kenny
+        - Tyler Simko
+        - Michael Zhao
+        - Kosuke Imai
+      date: 2024-02-28
+      date_label: "First CRAN release"
+      venue: "R package, v0.2.1"
+      url: https://alarm-redist.org/alarmdata/
+      # Version 0.2.1: verified against the changelog and archived DESCRIPTION's
+      # Date/Publication field. The website's citation year is generated dynamically.
+      date_source: https://alarm-redist.org/alarmdata/news/index.html
+      release_source: https://cran.r-project.org/src/contrib/Archive/alarmdata/alarmdata_0.2.1.tar.gz
+      authors_source: https://cran.r-project.org/src/contrib/Archive/alarmdata/alarmdata_0.2.1.tar.gz
