@@ -1,0 +1,4 @@
+# Paste the HTTPS src from this site's MapMyVisitors map embed here.
+# Keep blank until the site-specific widget is created; no production widget
+# is rendered without it. Local previews never load the tracking script.
+embed_url: ""

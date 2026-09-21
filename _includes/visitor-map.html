@@ -1,0 +1,15 @@
+{% assign visitor_map_url = site.data.visitor_map.embed_url | default: '' | strip %}
+{% if visitor_map_url != '' or jekyll.environment != 'production' %}
+<section class="visitor-map" aria-labelledby="visitor-map-title">
+  <h2 id="visitor-map-title">Visitors</h2>
+  {% if jekyll.environment == 'production' %}
+  <script id="mapmyvisitors" src="{{ visitor_map_url | escape }}" async></script>
+  <noscript><a href="https://mapmyvisitors.com/">Visitor map by MapMyVisitors</a></noscript>
+  {% else %}
+  <div class="visitor-map__preview">
+    <img src="https://mapmyvisitors.com/generated_content/backs/bg-w_263-cl_ffffff.png" width="263" height="129" alt="World map preview; no visitor data" loading="lazy" />
+  </div>
+  <p class="visitor-map__caption">Local preview &middot; not tracking visits</p>
+  {% endif %}
+</section>
+{% endif %}
