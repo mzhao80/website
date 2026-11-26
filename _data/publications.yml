@@ -1,6 +1,16 @@
 - title: "AI Research"
   id: ai-research
   works:
+    - title: "Research acceleration: The jagged frontier"
+      authors:
+        - OpenAI
+      date: 2026-11-18
+      date_label: "Published"
+      venue: "OpenAI"
+      url: https://openai.com/index/research-acceleration-jagged-frontier/
+      # Publication date and institutional authorship from OpenAI's article.
+      date_source: https://openai.com/index/research-acceleration-jagged-frontier/
+
     - title: "Research acceleration: The view inside OpenAI"
       authors:
         - OpenAI
